@@ -1,2 +1,3 @@
 # Quantitative-Methods-2024-2025
-CASA0007: Quantitative Methods module 
+CASA0007: Quantitative Methods module folder for uploading assignments.
+
